@@ -37,4 +37,4 @@ Index(['SEC31B', 'PRSS8', 'DCAF12', 'KDM2B', 'MAML1', 'DLG4', 'ACVR2A', 'HNMT',
 
 ## Use Enhanced COXEN for Gene Selection
 
-The [EnhancedCOXEN_Functions.py](./EnhancedCOXEN_Functions.py) script provides all the functions used by the enhanced COXEN method. coxen_multi_drug_gene_selection is the main function that performs the enhanced COXEN gene selection. Please see its comments explaining the input and output of the function in details. [Example_Run.py](./Example_Run.py) provides an exmaple demonstrating how to use the function. 
+The [EnhancedCOXEN_Functions.py](./EnhancedCOXEN_Functions.py) script provides all the functions used by the enhanced COXEN method. [coxen_multi_drug_gene_selection](https://github.com/CBIIT/NCI-DOE-Collab-Pilot1-Enhanced_COXEN/blob/main/Scripts/EnhancedCOXEN_Functions.py#L253) is the main function that performs the enhanced COXEN gene selection. Please see its comments explaining the input and output of the function in details. [Example_Run.py](./Example_Run.py) provides an exmaple demonstrating how to use the function. 
