@@ -30,4 +30,4 @@ The package includes a small dataset for demonstrating its utility, which is com
 
 ## Technical Details
 
-Refer to this [README](https://github.com/zhuyitan/Enhanced_COXEN/tree/main/Scripts).
+Refer to this [README](./Scripts).
